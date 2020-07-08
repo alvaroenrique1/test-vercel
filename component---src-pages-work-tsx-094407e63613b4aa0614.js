@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[8],{hkpG:function(n,e,t){"use strict";t.r(e),t.d(e,"default",(function(){return i}));var r=t("q1tI"),o=t.n(r),u=t("9Dj+");function i(n){return function(n){if(null==n)throw new TypeError("Cannot destructure undefined")}(n),o.a.createElement(u.a,{title:"Work",icon:"work"},o.a.createElement("div",null))}}}]);
+//# sourceMappingURL=component---src-pages-work-tsx-094407e63613b4aa0614.js.map

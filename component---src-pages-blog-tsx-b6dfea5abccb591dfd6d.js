@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{"1GPU":function(n,e,t){"use strict";t.r(e),t.d(e,"default",(function(){return a}));var r=t("q1tI"),o=t.n(r),u=t("9Dj+");function a(n){return function(n){if(null==n)throw new TypeError("Cannot destructure undefined")}(n),o.a.createElement(u.a,{title:"Blog",icon:"blog"},o.a.createElement("div",null,"asdasd"))}}}]);
+//# sourceMappingURL=component---src-pages-blog-tsx-b6dfea5abccb591dfd6d.js.map

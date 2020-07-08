@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{"i6+/":function(n,e,t){"use strict";t.r(e),t.d(e,"default",(function(){return o}));var u=t("q1tI"),r=t.n(u);function o(n){return function(n){if(null==n)throw new TypeError("Cannot destructure undefined")}(n),r.a.createElement("div",null,r.a.createElement("h1",null,"Not found"))}}}]);
+//# sourceMappingURL=component---src-pages-404-tsx-90af00ba0d6bf7f54ed5.js.map
